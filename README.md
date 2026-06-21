@@ -2,7 +2,6 @@
 
 Aplicación de chat fullstack desplegada en producción. Frontend React conectado directamente a Cloud Firestore mediante streams en tiempo real (`onSnapshot`). Sin backend — las Reglas de Firestore reemplazan al servidor.
 
-**Demo en vivo:** https://chat-live-518ec.web.app
 
 ---
 
